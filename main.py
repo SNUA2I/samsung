@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # 비밀번호 설정
-PASSWORD = "cjgmp"
+PASSWORD = "samsungcnt"
 
 # 데이터 준비 함수
 def prepare_data():
